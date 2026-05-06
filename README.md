@@ -64,9 +64,10 @@ $ status
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gvstavolst&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00cc33&text_color=cccccc)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvstavolst&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=cccccc)
+<a href="https://github.com/gvstavolst">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gvstavolst&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00cc33&text_color=cccccc&count_private=true&include_all_commits=true&rank_icon=github" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvstavolst&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=cccccc&langs_count=6" />
+</a>
 
 </div>
 
