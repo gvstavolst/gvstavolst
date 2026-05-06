@@ -1,16 +1,14 @@
 <div align="center">
 
-<!-- Banner animado com efeito wave hacker -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:0a3d0a,100:0d0d0d&height=200&section=header&text=GUSTAVO%20LEMOS&fontSize=48&fontColor=00ff41&fontAlignY=45&desc=Seguranca%20da%20Informacao%20%7C%20Pentest%20%7C%20Ethical%20Hacking&descSize=16&descFontColor=00cc33&descAlignY=68&animation=fadeIn&stroke=00ff41&strokeWidth=1" />
 
-<!-- Typing effect com frases de hacking -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00FF41&background=0D0D0D00&center=true&vCenter=true&multiline=false&width=500&lines=Reconnaissance...+%5BDONE%5D;Scanning+ports...+%5BDONE%5D;Analyzing+vulnerabilities...+%5BDONE%5D;Access+granted.;Ethical+Hacker+%7C+Pentest+%7C+SI" />
 
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavolemossouto)
 [![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=00ff41)](mailto:gu.lemos@hotmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-111111?style=for-the-badge&logo=tryhackme&logoColor=00ff41)](https://tryhackme.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-111111?style=for-the-badge&logo=tryhackme&logoColor=00ff41)](https://tryhackme.com/p/gvstavolst)
 
 </div>
 
@@ -64,10 +62,9 @@ $ status
 
 <div align="center">
 
-<a href="https://github.com/gvstavolst">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=gvstavolst&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00cc33&text_color=cccccc&count_private=true&include_all_commits=true&rank_icon=github" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvstavolst&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=cccccc&langs_count=6" />
-</a>
+[![GitHub Streak](https://streak-stats.demolab.com?user=gvstavolst&theme=chartreuse-dark&hide_border=true&background=0D0D0D&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&dates=888888)](https://github.com/gvstavolst)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvstavolst&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=cccccc&langs_count=6&cache_seconds=1800)](https://github.com/gvstavolst)
 
 </div>
 
