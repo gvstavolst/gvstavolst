@@ -64,7 +64,7 @@ $ status
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=gvstavolst&theme=chartreuse-dark&hide_border=true&background=0D0D0D&ring=00ff41&fire=00cc33&currStreakLabel=00ff41&sideLabels=00cc33&dates=888888)](https://github.com/gvstavolst)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gvstavolst&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=cccccc&langs_count=6&cache_seconds=1800)](https://github.com/gvstavolst)
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=gvstavolst&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=cccccc&langs_count=6)](https://github.com/gvstavolst)
 
 </div>
 
