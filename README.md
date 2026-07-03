@@ -1,10 +1,10 @@
 ## Gustavo Lemos
 
-Técnologo em Segurança da Informação pela Universidade Anhembi Morumbi. Tenho background em operações de e-commerce e automação de processos, e estou migrando para a área de segurança ofensiva com foco em pentest e análise de vulnerabilidades.
+Técnologo em Segurança da Informação pela Universidade Anhembi Morumbi, com background em operações de e-commerce, automação de processos e integrações de sistemas. Atualmente em transição para a área de **Blue Team / SOC**, com foco em monitoramento de ameaças, análise de logs e resposta a incidentes.
 
-Atualmente estudando pelo TryHackMe e OverTheWire, praticando reconhecimento de rede, enumeração e técnicas básicas de exploração. Em preparação para a certificação eJPT.
+Estudando ativamente no TryHackMe (trilhas SOC Level 1 e Blue Team), com prática em análise de tráfego de rede, correlação de eventos e uso de ferramentas SIEM. Em preparação para certificações na área defensiva (CompTIA Security+, Blue Team Labs).
 
-**Interesses:** segurança de redes, pentest, scripting em Python, Linux
+**Interesses:** SIEM (Splunk, Elastic), análise de logs, threat detection, incident response, scripting em Python para automação de segurança, Linux
 
 ---
 
@@ -12,9 +12,9 @@ Atualmente estudando pelo TryHackMe e OverTheWire, praticando reconhecimento de 
 
 | Repositório | Descrição | Tecnologias |
 |---|---|---|
-| [Net Detective](https://github.com/gvstavolst/Nat-Detective) | Scanner de rede local com ARP discovery, port scanning TCP e classificação de risco por porta | Python, Scapy |
+| [Net Detective](https://github.com/gvstavolst/Nat-Detective) | Scanner de rede local com ARP discovery, port scanning TCP e classificação de risco por porta — útil para inventário e detecção de ativos | Python, Scapy |
+| [Cyber Lab](https://github.com/gvstavolst/cyber-lab) | Notas de estudo em Blue Team: análise de logs, writeups de CTF defensivos e scripts de apoio a SOC | Python, Bash |
 | [Marketplace Automation](https://github.com/gvstavolst/marketplace-automation) | Scripts de automação operacional para e-commerce: consolidação de vendas, webhooks e integração ERP/WMS | Python, Pandas |
-| [Cyber Lab](https://github.com/gvstavolst/cyber-lab) | Notas e scripts de estudo em segurança ofensiva: reconhecimento, scanning e writeups de CTF | Python, Bash |
 | [OBR Robotica Virtual](https://github.com/gvstavolst/obr-robotica-virtual) | Lógica de controle de robô virtual com máquina de estados, desenvolvido para a OBR/UFABC 2021 | C++ |
 
 ---
