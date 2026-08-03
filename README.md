@@ -1,54 +1,48 @@
 <div align="center">
-  
-  <!-- Animação com o seu nome e área -->
-  <a href="https://github.com/gvstavolst">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Gustavo+Lemos;SOC+Analyst+%7C+Blue+Team;Segurança+da+Informação" alt="Typing SVG" />
-  </a>
 
-  <p>Profissional e estudante de Segurança da Informação, com foco em defesa cibernética, monitoramento de ameaças e inteligência de código aberto.</p>
+<!-- Banner animado com efeito wave (Tema Blue Team) -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0d0d,50:001a33,100:0d0d0d&height=200&section=header&text=GUSTAVO%20LEMOS&fontSize=48&fontColor=00aaff&fontAlignY=45&desc=Seguranca%20da%20Informacao%20%7C%20Blue%20Team%20%7C%20SOC&descSize=16&descFontColor=0088cc&descAlignY=68&animation=fadeIn&stroke=00aaff&strokeWidth=1" />
+
+<!-- Typing effect com frases de defesa -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=00AAFF&background=0D0D0D00&center=true&vCenter=true&multiline=false&width=500&lines=Monitoring+traffic...+%5BDONE%5D;Analyzing+logs...+%5BDONE%5D;Threat+Hunting...+%5BDONE%5D;System+Secured.;SOC+Analyst+%7C+Blue+Team+%7C+SI" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavolemossouto)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=00aaff)](mailto:gu.lemos@hotmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-111111?style=for-the-badge&logo=tryhackme&logoColor=00aaff)](https://tryhackme.com)
 
 </div>
 
+<br/>
+
+## 💻 Sobre Mim
 ---
 
-### 🛡️ Sobre Mim
+```bash
+$ whoami
+  gustavo_lemos
 
-* 🎓 Graduando em Segurança da Informação pela Universidade Anhembi Morumbi.
-* 🔍 Focado em **Blue Team** e operações de **SOC** (Security Operations Center).
-* 💻 Entusiasta de ambientes Linux, com experiência prática em distribuições focadas em segurança e auditoria (Kali, Alpine, WSL).
-* 🕵️‍♂️ Interessado no aprimoramento de técnicas de **OSINT** e análise de vulnerabilidades.
+$ cat about.txt
+  Tecnologo em Seguranca da Informacao — Anhembi Morumbi
+  Automacao Python | OSINT | Controle de Acesso | Analise de Incidentes
+  Foco em operacoes de SOC e Blue Team
+  Exercito Brasileiro — Veterano (TG 02-072)
 
----
+$ ls skills/
+  seguranca/  programacao/  dados/  sistemas/
 
-### 🛠️ Habilidades e Ferramentas
+$ cat skills/seguranca
+  Blue Team  SOC  OSINT  Kali Linux  Alpine  WSL  Wireshark
+  Firewalls  Controle de Acesso  Analise de Logs  Monitoramento
 
-<div align="left">
-  <!-- Você pode adicionar ou remover badges conforme as ferramentas que utiliza -->
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
-  <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white" alt="Alpine Linux" />
-  <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=data-camp&logoColor=white" alt="OSINT" />
-  <img src="https://img.shields.io/badge/Blue_Team-007ACC?style=for-the-badge&logo=shield&logoColor=white" alt="Blue Team" />
-</div>
+$ cat skills/programacao
+  Python  C++  Bash
 
----
+$ cat skills/sistemas
+  Linux  Windows  API REST  ERP (Bling/Tiny)  WMS
 
-### 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gvstavolst&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=ffffff" alt="Estatísticas do GitHub" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvstavolst&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=ffffff" alt="Linguagens Mais Usadas" height="150"/>
-</div>
-
----
-
-### 📫 Contato
-
-<div align="left">
-  <a href="mailto:gu.lemos@hotmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="www.linkedin.com/in/gustavolemossouto">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</div>
+$ status
+  [*] Graduacao SI — em andamento
+  [*] Cyber Lab (Defesa) — ativo
+  [*] TryHackMe / Blue Team Labs — estudando
