@@ -8,6 +8,12 @@ Estudando ativamente no TryHackMe (trilhas SOC Level 1 e Blue Team), com prátic
 
 ---
 
+### 🚀 TryHackMe — Progresso em Tempo Real
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/gvstavolst.png)](https://tryhackme.com/p/gvstavolst)
+
+---
+
 ### Projetos
 
 | Repositório | Descrição | Tecnologias |
