@@ -10,7 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavolemossouto)
 [![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=00aaff)](mailto:gu.lemos@hotmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-111111?style=for-the-badge&logo=tryhackme&logoColor=00aaff)](https://tryhackme.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-111111?style=for-the-badge&logo=tryhackme&logoColor=00aaff)](https://tryhackme.com/p/gvstavolst)
 
 </div>
 
