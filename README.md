@@ -27,7 +27,6 @@ $ cat about.txt
   Tecnologo em Seguranca da Informacao — Anhembi Morumbi
   Automacao Python | OSINT | Controle de Acesso | Analise de Incidentes
   Foco em operacoes de SOC e Blue Team
-  Exercito Brasileiro — Veterano (TG 02-072)
 
 $ ls skills/
   seguranca/  programacao/  dados/  sistemas/
