@@ -1,32 +1,54 @@
-## Gustavo Lemos
+<div align="center">
+  
+  <!-- Animação com o seu nome e área -->
+  <a href="https://github.com/gvstavolst">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=007ACC&center=true&vCenter=true&width=600&lines=Gustavo+Lemos;SOC+Analyst+%7C+Blue+Team;Segurança+da+Informação" alt="Typing SVG" />
+  </a>
 
-Técnologo em Segurança da Informação pela Universidade Anhembi Morumbi, com background em operações de e-commerce, automação de processos e integrações de sistemas. Atualmente em transição para a área de **Blue Team / SOC**, com foco em monitoramento de ameaças, análise de logs e resposta a incidentes.
+  <p>Profissional e estudante de Segurança da Informação, com foco em defesa cibernética, monitoramento de ameaças e inteligência de código aberto.</p>
 
-Estudando ativamente no TryHackMe (trilhas SOC Level 1 e Blue Team), com prática em análise de tráfego de rede, correlação de eventos e uso de ferramentas SIEM. Em preparação para certificações na área defensiva (CompTIA Security+, Blue Team Labs).
-
-**Interesses:** SIEM (Splunk, Elastic), análise de logs, threat detection, incident response, scripting em Python para automação de segurança, Linux
-
----
-
-### 🚀 TryHackMe — Progresso em Tempo Real
-
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/gvstavolst.png)](https://tryhackme.com/p/gvstavolst)
+</div>
 
 ---
 
-### Projetos
+### 🛡️ Sobre Mim
 
-| Repositório | Descrição | Tecnologias |
-|---|---|---|
-| [Net Detective](https://github.com/gvstavolst/Nat-Detective) | Scanner de rede local com ARP discovery, port scanning TCP e classificação de risco por porta — útil para inventário e detecção de ativos | Python, Scapy |
-| [Cyber Lab](https://github.com/gvstavolst/cyber-lab) | Notas de estudo em Blue Team: análise de logs, writeups de CTF defensivos e scripts de apoio a SOC | Python, Bash |
-| [Marketplace Automation](https://github.com/gvstavolst/marketplace-automation) | Scripts de automação operacional para e-commerce: consolidação de vendas, webhooks e integração ERP/WMS | Python, Pandas |
-| [OBR Robotica Virtual](https://github.com/gvstavolst/obr-robotica-virtual) | Lógica de controle de robô virtual com máquina de estados, desenvolvido para a OBR/UFABC 2021 | C++ |
+* 🎓 Graduando em Segurança da Informação pela Universidade Anhembi Morumbi.
+* 🔍 Focado em **Blue Team** e operações de **SOC** (Security Operations Center).
+* 💻 Entusiasta de ambientes Linux, com experiência prática em distribuições focadas em segurança e auditoria (Kali, Alpine, WSL).
+* 🕵️‍♂️ Interessado no aprimoramento de técnicas de **OSINT** e análise de vulnerabilidades.
 
 ---
 
-**Contato**
+### 🛠️ Habilidades e Ferramentas
 
-- LinkedIn: [linkedin.com/in/gustavolemossouto](https://linkedin.com/in/gustavolemossouto)
-- Email: gu.lemos@hotmail.com
-- TryHackMe: [tryhackme.com/p/gvstavolst](https://tryhackme.com/p/gvstavolst)
+<div align="left">
+  <!-- Você pode adicionar ou remover badges conforme as ferramentas que utiliza -->
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white" alt="Alpine Linux" />
+  <img src="https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=data-camp&logoColor=white" alt="OSINT" />
+  <img src="https://img.shields.io/badge/Blue_Team-007ACC?style=for-the-badge&logo=shield&logoColor=white" alt="Blue Team" />
+</div>
+
+---
+
+### 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gvstavolst&show_icons=true&theme=transparent&hide_border=true&title_color=007ACC&icon_color=007ACC&text_color=ffffff" alt="Estatísticas do GitHub" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gvstavolst&layout=compact&theme=transparent&hide_border=true&title_color=007ACC&text_color=ffffff" alt="Linguagens Mais Usadas" height="150"/>
+</div>
+
+---
+
+### 📫 Contato
+
+<div align="left">
+  <a href="mailto:gu.lemos@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="www.linkedin.com/in/gustavolemossouto">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
